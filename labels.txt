@@ -1,0 +1,4 @@
+0 Nhựa
+1 Giấy
+2 Kim loại
+3 Pin
